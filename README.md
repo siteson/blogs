@@ -1,0 +1,2 @@
+# blogs
+Hugo blog buffer
