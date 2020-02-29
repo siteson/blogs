@@ -13,6 +13,7 @@ paginate = 5              # Number of articles displayed on the homepage  # 首�
 rssLimit = 10             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
 disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
+enableGitInfo = true      # use git commit log to generate lastmod record # 可根据 Git 中的提交生成最近更新记录。
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 # 高亮显示选项 Highlight options. See https://gohugo.io/content-management/syntax-highlighting/
@@ -59,7 +60,8 @@ defaultContentLanguage = "zh-cn"           # Default language to use
 # weight = 50
 # url = "https://siteson.github.io"
 
-  baidu_push = true        # baidu push                  # 百度推送
+  baidu_push = false        # baidu push                  # 百度推送
+  googleAnalytics = "UA-159363201-1"
 
 [params]
   since = "2020"            # Site creation time          # 站点建立时间
@@ -119,6 +121,5 @@ defaultContentLanguage = "zh-cn"           # Default language to use
 
 [params.utteranc]  # 评论系统
 enable = true
-repo="https://github.com/siteson/blogs-repo"
-issue-term="pathname"
-theme="github-light"  
+repo="siteson/blogs-repo"
+issueTerm= "pathname"

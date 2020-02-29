@@ -1,0 +1,22 @@
+http://www.ibm.com/developerworks/library/os-php-twitter-interface/index.html
+简单Twitter类网站
+
+https://www.jianshu.com/p/ee6063e73ee6
+MVC 架构模式 简书
+
+https://blog.huoding.com/2011/05/02/64
+MVC 演化史 *
+
+冷启动-百度百科 ？
+
+http://www.ruanyifeng.com/blog/2007/11/mvc.html
+谈谈MVC模式-阮一峰 *
+
+https://draveness.me/mvx
+浅谈 MVC、MVP 和 MVVM 架构模式 *
+
+https://zh.wikipedia.org/zh-hans/MVC
+MVC 维基百科
+
+http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html
+MVC，MVP 和 MVVM 的图示 - 阮一峰

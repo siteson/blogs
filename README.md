@@ -1,2 +1,2 @@
 # blogs
-Hugo blog buffer
+Hugo blog backup.
